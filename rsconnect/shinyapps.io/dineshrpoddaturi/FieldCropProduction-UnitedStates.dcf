@@ -1,0 +1,13 @@
+name: FieldCropProduction-UnitedStates
+title: FieldCropProduction-UnitedStates
+username:
+account: dineshrpoddaturi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4499025
+bundleId: 4929738
+url: https://dineshrpoddaturi.shinyapps.io/FieldCropProduction-UnitedStates/
+when: 1629138610.9859
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: test.R
