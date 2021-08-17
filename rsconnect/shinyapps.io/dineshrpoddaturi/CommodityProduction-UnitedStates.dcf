@@ -1,0 +1,13 @@
+name: CommodityProduction-UnitedStates
+title: CommodityProduction-UnitedStates
+username:
+account: dineshrpoddaturi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4499128
+bundleId: 4929826
+url: https://dineshrpoddaturi.shinyapps.io/CommodityProduction-UnitedStates/
+when: 1629139763.05816
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: test.R
